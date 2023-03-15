@@ -1,0 +1,20 @@
+.button-png{
+    position: relative;
+    height: inherit;
+    width: inherit;
+}
+
+.success input {
+    border: 1.5px solid #09c372;
+}
+
+.error input {
+    border: 1.5px solid #ff3860;
+}
+
+.error {
+    color: #ff3860;
+    font-size: 6px;
+    padding-top: 8px;
+    
+}
